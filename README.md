@@ -24,10 +24,10 @@ This repository is a modified version of the **Wheeled Quadruped** code original
     python scripts/reinforcement_learning/sb3/train.py --task Custom-Wheeled-Quadruped-v0 --num_envs 1024
     ```
 
-## References
+## Demo Video
 
-- **YouTube Reference:**
-  [Isaac Lab Wheeled Quadruped Demo Video](https://youtu.be/_79nZS3ey2U)
+- **YouTube Demo Video:**  
+  [![Isaac Lab Wheeled Quadruped Demo Video](https://img.youtube.com/vi/_79nZS3ey2U/hqdefault.jpg)](https://youtu.be/_79nZS3ey2U)
 
 ## Notes
 
